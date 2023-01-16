@@ -15,8 +15,6 @@
 
 using namespace std;
 
-vector<array<int, 4>> program;
-
 struct CPU;
 
 int const nop = 16;
